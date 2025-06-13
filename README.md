@@ -20,17 +20,16 @@
 
 ## 🛠️ Projects Showcase
 
-### 🛒 FixerUpper - Live Demo https://evgeno89.github.io/FixerUpper/
+## 🛠️ FixerUpper - Live Demo [Click Here](https://evgeno89.github.io/FixerUpper/)
 
 An e-commerce store for tools, built using HTML, CSS, and JavaScript.
 
-![Homepage Screenshot](./1.png)
+### 🏠 Homepage Preview
 
-An e-commerce web app where users can buy tools online. Features add-to-cart, quantity updates, and checkout summary.
+![FixerUpper Homepage](./1.png)
 
-| Homepage | Cart | Checkout |
-|---------|------|----------|
-| ![](./1.png) | ![](./2.png) | ![](./3.png) |
+An intuitive web app where users can shop for tools, add to cart, and proceed to checkout. Built with simplicity and style.
+
 
 ### 📁 Portfolio Web App
 
