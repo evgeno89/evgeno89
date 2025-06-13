@@ -20,7 +20,6 @@
 
 ## 🛠️ Projects Showcase
 
-### 🛒 FixerUpper - Tool Store App
 ### 🛒 [FixerUpper - Live Demo](https://yourusername.github.io/FixerUpper/)
 
 An e-commerce store for tools, built using HTML, CSS, and JavaScript.
