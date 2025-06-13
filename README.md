@@ -31,15 +31,14 @@ An e-commerce store for tools, built using HTML, CSS, and JavaScript.
 An intuitive web app where users can shop for tools, add to cart, and proceed to checkout. Built with simplicity and style.
 
 
-### 📁 Portfolio Web App
+### 📁 Portfolio Web App - Live Demo [Click Here](http://localhost/myportfolio/contact.html)
 
 My personal portfolio showcasing skills, growth, and projects.
 
-| Portfolio Screenshot |
-|----------------------|
-| ![](./4.png) |
+### 🏠 Homepage Preview
 
----
+![Myportfolio Homepage](./pic1.png)
+
 
 ## 🧰 Tech Stack
 
