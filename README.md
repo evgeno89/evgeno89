@@ -20,7 +20,7 @@
 
 ## 🛠️ Projects Showcase
 
-## 🛠️ FixerUpper - Live Demo [Click Here](https://evgeno89.github.io/FixerUpper/)
+## 🛠️ FixerUpper - Live Demo [Click Here](http://localhost/fixerupper/home.php)
 
 An e-commerce store for tools, built using HTML, CSS, and JavaScript.
 
