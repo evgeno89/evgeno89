@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- GitHub Profile README.md -->
 
-<!--
-**evgeno89/evgeno89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Eugen 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Level 5 Computing Student | Frontend Learner | Aspiring Developer</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 Currently studying **Level 5 in Computing**
+- 💡 Passionate about web development, UI/UX design, and tech innovation
+- 📚 Currently learning **JavaScript**, **React**, and backend basics
+- 🔧 Tools I enjoy working with: HTML5, CSS3, JS, Git
+- 🎯 Goal: Build modern, responsive, user-friendly apps
+
+---
+
+## 🛠️ Projects Showcase
+
+### 🛒 FixerUpper - Tool Store App
+
+An e-commerce web app where users can buy tools online. Features add-to-cart, quantity updates, and checkout summary.
+
+| Homepage | Cart | Checkout |
+|---------|------|----------|
+| ![](./1.png) | ![](./2.png) | ![](./3.png) |
+
+### 📁 Portfolio Web App
+
+My personal portfolio showcasing skills, growth, and projects.
+
+| Portfolio Screenshot |
+|----------------------|
+| ![](./4.png) |
+
+---
+
+## 🧰 Tech Stack
+
+```text
+💻 Languages:     HTML, CSS, JavaScript  
+⚙️ Tools:         Git, VS Code, GitHub  
+🧠 Currently learning: React, Node.js, Firebase  
